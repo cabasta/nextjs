@@ -20,6 +20,7 @@ export default function Home() {
         </p>
         <p>
           Hamwe schomma gemacht!
+
         </p>
 
         <div className={styles.grid}>
