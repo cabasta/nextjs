@@ -20,6 +20,9 @@ export default function Home() {
         </p>
         <p>
           Hamwe schomma gemacht!
+            Edited from mobile device.
+            
+            
 
         </p>
 
@@ -27,6 +30,7 @@ export default function Home() {
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h3>Documentation &rarr;</h3>
             <p>Find in-depth information about Next.js features and API.</p>
+<p>Auch da passt noch was hin!</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
