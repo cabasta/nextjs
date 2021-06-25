@@ -31,6 +31,7 @@ export default function Home() {
             <h3>Documentation &rarr;</h3>
             <p>Find in-depth information about Next.js features and API.</p>
 <p>Auch da passt noch was hin!</p>
+              <p>Das kommt aus Idea lokal!</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
