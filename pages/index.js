@@ -38,6 +38,7 @@ export default function Home() {
             <h3>Learn &rarr;</h3>
             <p>Learn about Next.js in an interactive course with quizzes!
                 Und die zweite Änderung in Idea!</p>
+                <p>Jetzt ne Änderung aus der Github-Browser-IDE!</p>
           </a>
 
           <a
