@@ -25,6 +25,8 @@ export default function Home() {
             
 
         </p>
+        <p> Noch mehr Änderungen von VSCode Web</p>
+        
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
