@@ -23,7 +23,7 @@ export default function Home() {
             Edited from mobile device
             Dies ist eine weitere Änderung!
             .
-            
+
             
             
 
@@ -35,6 +35,7 @@ export default function Home() {
             <p>Find in-depth information about Next.js features and API.</p>
 <p>Auch da passt noch was hin!</p>
               <p>Das kommt aus Idea lokal!</p>
+              <p>Wie lange braucht Vercel bis zur Deployment-Mail? </p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
