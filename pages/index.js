@@ -20,7 +20,10 @@ export default function Home() {
         </p>
         <p>
           Hamwe schomma gemacht!
-            Edited from mobile device.
+            Edited from mobile device
+            Dies ist eine weitere Änderung!
+            .
+            
             
             
 
