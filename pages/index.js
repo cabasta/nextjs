@@ -22,6 +22,7 @@ export default function Home() {
 
           Hamwe schomma gemacht!
             Edited from mobile device
+ Im Walde 
             Dies ist eine weitere Änderung!
             .
 
