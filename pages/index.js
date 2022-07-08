@@ -18,7 +18,8 @@ export default function Home() {
           Get started by editing{' '}
           <code className={styles.code}>pages/index.js</code>
         </p>
-        <p>
+        <p> noch etwas Text:
+
           Hamwe schomma gemacht!
             Edited from mobile device
             Dies ist eine weitere Änderung!
@@ -33,7 +34,8 @@ export default function Home() {
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h3>Documentation &rarr;</h3>
             <p>Find in-depth information about Next.js features and API.</p>
-<p>Auch da passt noch was hin!</p>
+<p>Auch da passt noch was hin! Mit spracherkennung
+</p>
               <p>Das kommt aus Idea lokal!</p>
               <p>Wie lange braucht Vercel bis zur Deployment-Mail? </p>
           </a>
