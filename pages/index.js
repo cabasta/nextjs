@@ -24,6 +24,7 @@ export default function Home() {
             Edited from mobile device
  Im Walde 
             Dies ist eine weitere Änderung!
+            Jetzt lokal mit VSCode@tomi
             .
 
             
