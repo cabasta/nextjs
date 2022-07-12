@@ -19,11 +19,6 @@ export default function Home() {
           <code className={styles.code}>pages/index.js</code>
         </p>
         <p> noch etwas Text:
-
-          Hamwe schomma gemacht!
-            Edited from mobile device
- Im Walde 
-            Dies ist eine weitere Änderung!
             Jetzt lokal mit VSCode@tomi
             .
 
