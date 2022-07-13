@@ -15,7 +15,8 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
+          Get started by editing{'Hier ist ein stino-String '}
+
           <code className={styles.code}>pages/index.js</code>
         </p>
         <p>
