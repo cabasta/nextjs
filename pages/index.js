@@ -19,9 +19,10 @@ export default function Home() {
 
           <code className={styles.code}>pages/index.js</code>
         </p>
-        <p>
-          Hamwe schomma gemacht!
-            Edited from mobile device.
+        <p> noch etwas Text:
+            Jetzt lokal mit VSCode@tomi
+            .
+
             
             
 
@@ -31,14 +32,17 @@ export default function Home() {
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h3>Documentation &rarr;</h3>
             <p>Find in-depth information about Next.js features and API.</p>
-<p>Auch da passt noch was hin!</p>
+<p>Auch da passt noch was hin! Mit spracherkennung
+</p>
               <p>Das kommt aus Idea lokal!</p>
+              <p>Wie lange braucht Vercel bis zur Deployment-Mail? </p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
             <h3>Learn &rarr;</h3>
             <p>Learn about Next.js in an interactive course with quizzes!
                 Und die zweite Änderung in Idea!</p>
+                <p>Jetzt ne Änderung aus der Github-Browser-IDE!</p>
           </a>
 
           <a
